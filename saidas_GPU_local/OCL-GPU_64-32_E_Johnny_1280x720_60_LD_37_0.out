@@ -1,0 +1,28 @@
+ERROR: XILINX_XRT must be set
+Frames: 10
+fps: 17.49
+
+TotalDe265: 0.57164
+
+tTotal: 0.571639477000
+
+tTotal_clk: 0.571681000000
+
+Frames_cout: 10
+fps_cout: 17.4936
+TotalDe265_cout: 0.571637
+
+tTotal_cout: 0.571639
+
+tTotal_clk_cout: 0.571681
+
+tInput: 0.004034720000
+txFracl: 0.001442400000
+tyFracl: 0.001436384000
+tKernel: 0.048529248000
+tOutput: 0.011564480000
+tInput_cout: 0.00403472
+txFracl_cout: 0.0014424
+tyFracl_cout: 0.00143638
+tKernel_cout: 0.0485292
+tOutput_cout: 0.0115645
