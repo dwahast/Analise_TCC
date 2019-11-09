@@ -1,0 +1,30 @@
+xclProbe found 1 FPGA slots with xocl driver running
+INFO: Could not load AFI for data retention, code: 18 - Loading in classic mode.
+AFI load complete.
+Frames: 10
+fps: 0.27
+
+TotalDe265: 37.58759
+
+tTotal: 37.587604756000
+
+tTotal_clk: 34.980000000000
+
+Frames_cout: 10
+fps_cout: 0.266045
+TotalDe265_cout: 37.5876
+
+tTotal_cout: 37.5876
+
+tTotal_clk_cout: 34.98
+
+tInput: 3.116770861000
+txFracl: 3.004559322000
+tyFracl: 2.993166775000
+tKernel: 9.684964577000
+tOutput: 3.289950049000
+tInput_cout: 3.11677
+txFracl_cout: 3.00456
+tyFracl_cout: 2.99317
+tKernel_cout: 9.68496
+tOutput_cout: 3.28995

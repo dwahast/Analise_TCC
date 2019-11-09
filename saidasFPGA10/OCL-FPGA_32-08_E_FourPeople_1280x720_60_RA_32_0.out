@@ -1,0 +1,31 @@
+xclProbe found 1 FPGA slots with xocl driver running
+This AFI already loaded. Skip reload!
+Successfully skipped reloading of local image.
+AFI load complete.
+Frames: 10
+fps: 3.28
+
+TotalDe265: 3.04527
+
+tTotal: 3.045288893000
+
+tTotal_clk: 2.660000000000
+
+Frames_cout: 10
+fps_cout: 3.28378
+TotalDe265_cout: 3.04527
+
+tTotal_cout: 3.04529
+
+tTotal_clk_cout: 2.66
+
+tInput: 0.212846853000
+txFracl: 0.211111112000
+tyFracl: 0.210045419000
+tKernel: 0.927956348000
+tOutput: 0.197333406000
+tInput_cout: 0.212847
+txFracl_cout: 0.211111
+tyFracl_cout: 0.210045
+tKernel_cout: 0.927956
+tOutput_cout: 0.197333

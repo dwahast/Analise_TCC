@@ -1,0 +1,15 @@
+Frames: 10
+fps:  2.50
+
+TotalDe265: 3.99970
+
+tTotal: 3.999708652496
+tReadCodingUnit: 0.000000000000
+tGenerateInterPredictionSamples: 0.000000000000
+tMCLuma: 0.000000000000
+
+tTotal_clk: 4.000000000000
+tReadCodingUnit_clk: 0.000000000000
+tGenerateInterPredictionSamples_clk: 0.000000000000
+tMCLuma_clk: 0.000000000000
+
